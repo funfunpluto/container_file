@@ -1,0 +1,5 @@
+github-oauth
+slack
+ssh-credentials
+configuration-as-code
+groovy
